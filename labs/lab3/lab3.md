@@ -16,4 +16,4 @@ Assignment: Lab 3
 ![q4](q4.1.png)
 
 ## Script Source code:
-[lab3](challenge_lab3.sh)
+[lab3 challenge](challenge_lab3.sh)
