@@ -14,5 +14,7 @@
 ![q4](q4.3.png)
 ![q4](q4.4.png)
 ## Challenge Question 
-![cq]()
-![]()
+![cq](cq1.png)
+![cq](cq2.1.png)
+![cq](cq2.2.png)
+![cq](cq3.png)
